@@ -1,13 +1,13 @@
 ---
 name: to-issues
-description: Break a plan, spec, or PRD into independently-grabbable issues on the project issue tracker using tracer-bullet vertical slices. Use when user wants to convert a plan into issues, create implementation tickets, or break down work into issues.
+description: Break a plan, spec, or PRD into independently-grabbable issues using tracer-bullet vertical slices. Use when user wants to convert a plan into issues, create implementation tickets, or break down work into issues.
 ---
 
 # To Issues
 
 Break a plan into independently-grabbable issues using vertical slices (tracer bullets).
 
-The issue tracker and triage label vocabulary should have been provided to you — run `/setup-matt-pocock-skills` if not.
+The issues should be saved in the doc/issues folder, where the folder name matches the source issue or spec or PRD that the issues are derived from. For example, if the source is an issue, the folder should be named after the issue number. If the source is a spec or PRD, the folder should be named after the spec/PRD filename without the extension.
 
 ## Process
 
